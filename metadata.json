@@ -1,0 +1,6 @@
+{
+  "name": "AI Answer Sheet Checker",
+  "description": "Smart handwriting-based exam evaluation for teachers with OCR, concept-based grading, and customizable marking rubrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
